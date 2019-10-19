@@ -26,3 +26,4 @@ The test set is used to see how well our model performs on unseen data. For the 
 ##### submission.csv:
 This file contains only two coulmns - PassengerId and Survived (1 or 0)</br>
 We just need to predict values of Survived as Survived (1) or died (0)</br>
+<img width="202" alt="submission_titanic" src="https://user-images.githubusercontent.com/26343062/67136080-569dfa80-f1d6-11e9-8c24-7c50a17cc95f.png">
